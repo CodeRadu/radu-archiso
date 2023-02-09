@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="radu-archinstall"
+iso_name="radu-archiso"
 iso_label="ARCH_RADU_$(date +%Y%m)"
 iso_publisher="Radu"
 iso_application="Radu's Arch install environment"
 iso_version="$(date +%Y.%m.%d)"
-install_dir="arch"
+install_dir="radu-arch"
 buildmodes=('iso')
 bootmodes=('uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
 arch="x86_64"
