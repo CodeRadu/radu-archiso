@@ -5,10 +5,8 @@ archinstall
 b43-fwcutter
 base
 bind
-brltty
 broadcom-wl
 btrfs-progs
-clonezilla
 cloud-init
 cryptsetup
 darkhttpd
@@ -125,5 +123,8 @@ zsh
 plasma
 konsole
 networkmanager
-gparted
 thunar
+
+# Recovery tools
+gparted
+clonezilla
