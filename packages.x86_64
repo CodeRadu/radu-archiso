@@ -124,6 +124,7 @@ plasma
 konsole
 networkmanager
 thunar
+chromium
 
 # Recovery tools
 gparted
