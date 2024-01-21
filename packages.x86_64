@@ -124,7 +124,7 @@ plasma
 konsole
 networkmanager
 thunar
-chromium
+firefox
 
 # Recovery tools
 gparted
